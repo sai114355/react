@@ -1,0 +1,25 @@
+{
+  "name": "react",
+  "version": "1.0.0",
+  "description": "react app",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sai114355/react.git"
+  },
+  "keywords": [
+    "react"
+  ],
+  "author": "Sai Krishna Patibandla",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sai114355/react/issues"
+  },
+  "homepage": "https://github.com/sai114355/react#readme",
+  "devDependencies": {
+    "parcel": "^2.15.4"
+  }
+}
