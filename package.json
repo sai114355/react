@@ -2,7 +2,6 @@
   "name": "react",
   "version": "1.0.0",
   "description": "react app",
-  "main": "App.js",
   "scripts": {
     "test": "jest"
   },
@@ -21,5 +20,12 @@
   "homepage": "https://github.com/sai114355/react#readme",
   "devDependencies": {
     "parcel": "^2.15.4"
-  }
+  },
+  "dependencies": {
+    "react": "^19.1.1",
+    "react-dom": "^19.1.1"
+  },
+  "browserslist": [
+    "last 2 versions"
+  ]
 }
